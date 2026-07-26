@@ -61,17 +61,3 @@ I also wrote Fluent in AI, an ebook on AI literacy for beginners and non-technic
 ---
 
 *Bridging AI governance research with practical tools for African communities.*
-
-
-
-
-
-
-CS50 Problem Set 1, C
-
-Completed Hello It's Me, Mario, and Cash, all passed.
-
-Faced real obstacles here, folder path confusion, submission slug errors, and a full rewrite of Cash after the assignment format changed mid attempt. Pushed through each one, grateful for the strength to keep going.
-
-Lecture 2, Arrays, next.
-
