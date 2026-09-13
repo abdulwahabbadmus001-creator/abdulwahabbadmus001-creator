@@ -1,6 +1,6 @@
 # Wahab Opeyemi Badmus
 
-### AI Governance Researcher • Public Policy Analyst • Research Analyst • Programmer
+### AI Governance Researcher • Public Policy Analyst • Research Analyst • AI-Assiated Developer 
 
 [Email](mailto:abdulwahabbadmus001@gmail.com) • [LinkedIn](https://www.linkedin.com/in/wahab-badmus-6a50a0231) • [Portfolio](https://wahab-badmus.netlify.app) • [AGP Blog](https://africaglobalpolitics.blogspot.com)
 
